@@ -1,3 +1,4 @@
 Hey there my Named codes Muhammad Noman and now this is the strting
 of my git hub journey for pushing commmands and codes to github I learned 
 git init,pull and merging.
+SO this was thee time I first commited new changes
